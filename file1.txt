@@ -3,3 +3,5 @@ This is the first day of B20 Git class or something
 We added one file inside file1.txt
 
 changin some stuff
+
+I am making some changes for file1.txt under B20-Day1 Repository
