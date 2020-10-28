@@ -2,5 +2,3 @@ This is the first day of B20 Git class or something
 
 We added one file inside file1.txt
 
-Git automatically detected the changes
-We committed these changes into the git repository
